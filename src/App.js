@@ -10,6 +10,7 @@ const Kolaborasi = lazy(() => import('./Kolaborasi'));
 const Kolab1 = lazy(() => import('./Kolab/Kolab1'));
 const Kolab2 = lazy(() => import('./Kolab/Kolab2'));
 const Kolab3 = lazy(() => import('./Kolab/Kolab3'));
+const Api = lazy(() => import('./Api'));
 const App = () => (
 
 <Router>
@@ -24,6 +25,7 @@ const App = () => (
 <Route path="/Kolab1" element={<Kolab1/>} />
 <Route path="/Kolab2" element={<Kolab2/>} />
 <Route path="/Kolab3" element={<Kolab3/>} />
+<Route path="/Api" element={<Api/>} />
 
 </Routes>
 </Suspense>
