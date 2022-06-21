@@ -1,6 +1,6 @@
 {"success":true,"products":[
     
-    {"ProductID":"1","ProductName":"TERNALA","SupplierID":"1","CategoryID":"1","QuantityPerUnit":"10 boxes x 20 bags","UnitPrice":"Rp 199.000","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=1-rw2hFlu14O3_Xe9XyAFGvCpAU1EtJWb"},
+    {"ProductID":"1","ProductName":"TERNALA","href":"Kolab1","UnitPrice":"Rp 199.000","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=1-rw2hFlu14O3_Xe9XyAFGvCpAU1EtJWb"},
 
     {"ProductID":"4","ProductName":"PRUFAL","SupplierID":"2","CategoryID":"2","QuantityPerUnit":"48 - 6 oz jars","UnitPrice":"Rp 299.000","UnitsInStock":"53","UnitsOnOrder":"0","ReorderLevel":"0","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=1aMbwQ64uPITFkBIASamYDtElX4JCV7gf"},
 
